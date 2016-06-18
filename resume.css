@@ -6,16 +6,21 @@ div
 {
     position: fixed;
     z-index: 1;
-    height:40px;
-    width: 98%;
-    background-color: #668284;
+    height:50px;
+    width: 100%;
+    background-color: #ADD8E6;
+    /*background-color: #ffffff;*/
     margin-bottom: 0px;
+    margin-top: -8px;
+    margin-left: -12px;
+    line-height: 10px;
     color: #000000;
     }
 
 #name {
     float:left;
 	margin-left: 5px;
+    margin-top: 13px;
 	padding-bottom: -10px;
 	font-size: 32px;
 	font-family: Verdana, sans-serif;
@@ -53,7 +58,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: #E3EDD8;
+    /*background-color: #E3EDD8;*/
     }
 
 /*.left
